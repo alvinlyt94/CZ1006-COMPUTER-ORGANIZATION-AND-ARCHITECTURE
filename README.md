@@ -14,7 +14,7 @@
 
 Refer to `CZ3001 Coursework Assignment.pdf` for more details.
 
-## Knowledge Accquired includes: 
+## Knowledge Acquired includes: 
 
 **1. Introduction and Background**
 - Performance metrics and performance enhancement
