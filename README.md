@@ -7,10 +7,10 @@
 * How to **reduce** the length of the programs and **reduce** the execution time
 
 ## Coursework Assignment
-- modified the ``4-stage pipelined processor`` to include ``load word (lw)`` and ``store word(sw)`` instructions
-- transformed it into a ``5 stage pipelined processor``
-- analyzed the operation of 5 stage pipelined data path and 
-- ``simulated`` the LW and sw instructions along with rtype and addi instructions 
+- Modified the **4-stage pipelined processor** to include ``Load Word (LW)`` and ``Store Word (SW)`` instructions
+- Transformed the **4-stage pipelined processor** into a **5-stage pipelined processor**
+- Analyzed the operation of **5-stage pipelined data path** 
+- Simulated the ``LW`` and ``SW`` instructions along with ``rtype`` and ``addi`` instructions 
 
 ## Knowledge Accquired includes: 
 
