@@ -43,4 +43,5 @@ techniques
 - Introduction to domain-specific computing
 - Comparison of performances and power consumption of general purpose processors, DSP, GPU, FPGA, and ASIC
 - Heterogeneous multicore platform
-- Introduction to cloud computing. Concepts of server-on-chip and NoC
+- Introduction to cloud computing
+- Concepts of server-on-chip and NoC
