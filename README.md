@@ -46,7 +46,8 @@ techniques
 - Motivation for multicore and many-core systems, Amdahl’s law under power constraint, Challenges in efficient multi-core system design, Cache coherence problem
 
 **8. Custom Computing and Emerging Trends**
-- Application specific architectures and ASIP. FPGA and ASIC
+- Application specific architectures and ASIP
+- FPGA and ASIC
 - Introduction to domain-specific computing
 - Comparison of performances and power consumption of general purpose processors, DSP, GPU, FPGA, and ASIC
 - Heterogeneous multicore platform
