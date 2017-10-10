@@ -12,6 +12,8 @@
 - Analyzed the operation of **5-stage pipelined data path** 
 - Simulated the ``LW`` and ``SW`` instructions along with ``rtype`` and ``addi`` instructions 
 
+Refer to `CZ3001 Coursework Assignment.pdf` for more details.
+
 ## Knowledge Accquired includes: 
 
 **1. Introduction and Background**
