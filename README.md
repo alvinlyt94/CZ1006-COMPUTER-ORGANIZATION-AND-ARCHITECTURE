@@ -14,9 +14,11 @@
 
 ## Knowledge Accquired includes: 
 
-1. Introduction and background: Performance metrics and performance enhancement
-techniques, Basic concepts of parallel processing and pipelining, Power dissipation in processors,
-power metrics, and low-power design techniques.
+1. Introduction and background: 
+- Performance metrics and performance enhancement
+techniques
+- Basic concepts of parallel processing and pipelining
+- Power dissipation in processors, power metrics, and low-power design techniques
 2. Instruction set architecture design: Instruction set design, implementation and
 performance perspectives, relative advantages of RISC and CISC instruction set .
 3. Data-path and control design: Single and multi-cycle data path design. Hardwired and
