@@ -19,25 +19,32 @@
 techniques
 - Basic concepts of parallel processing and pipelining
 - Power dissipation in processors, power metrics, and low-power design techniques
+
 **2. Instruction Set Architecture Design:**
 - Instruction set design, implementation and performance perspectives, relative advantages of RISC and CISC instruction set
+
 **3. Data-path and Control Design**
 - Single and multi-cycle data path design
 - Hardwired and micro-programmed control design
 - Pipelined datapath design
+
 **4. Instruction-Level Parallelism (ILP)**
 - Pipeline data-path, data-dependence
 - Challenges in ILP realization
 - Pipeline hazards and their solutions, out-of-order execution, branch prediction, and dynamic scheduling
 - VLIW and superscalar processors
+
 **5. Memory Systems**
 - Overview of memory hierarchy cache design considerations, instruction vs. data caches, write-policy and replacement policy, analysis of cache performance, and cache design for performance enhancement
 - Brief overview of memory technologies (SRAM, DRAM, and flash) 
 - Virtual memory, TLB, and MMU
+
 **6. Data-Level Parallelism**
 - Introduction to vector processor, SIMD instruction set extensions, GPU architecture
+
 **7. Multiprocessors and Thread-Level Parallelism**
 - Motivation for multicore and many-core systems, Amdahl’s law under power constraint, Challenges in efficient multi-core system design, Cache coherence problem
+
 **8. Custom Computing and Emerging Trends**
 - Application specific architectures and ASIP. FPGA and ASIC
 - Introduction to domain-specific computing
